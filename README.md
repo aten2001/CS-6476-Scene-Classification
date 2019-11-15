@@ -1,4 +1,4 @@
-# CS 6476 project 4: [Scene Recognition with Bag-of-Words](https://www.cc.gatech.edu/~hays/compvision/proj4/)
+# [Scene Recognition with Bag-of-Words](https://www.cc.gatech.edu/~hays/compvision/proj4/)
 
 # Setup
 - Install Anaconda / Miniconda
